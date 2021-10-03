@@ -1,0 +1,4 @@
+API_URL="https://eth-ropsten.alchemyapi.io/v2/<apikey>"
+PRIVATE_KEY=
+CONTRACT_ADDRESS=
+MY_ACCOUNT=

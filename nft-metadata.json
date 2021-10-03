@@ -1,0 +1,15 @@
+{
+    "image":"https://gateway.pinata.cloud/ipfs/QmULJWB8jyLPfFhvjXCw1uWrvtWrFUcTDRLqyY23PQw1vi",
+    "description":"blue funny tiger shark",
+    "attributes":[
+        {
+            "trait_type":"breed",
+            "value":"tiger"
+        },
+        {
+            "trait_type":"color",
+            "value":"blue"
+        }
+    ],
+    "name":"sharky"
+}
